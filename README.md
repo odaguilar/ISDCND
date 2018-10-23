@@ -56,7 +56,7 @@
 
 ***
 
-##[Project 3: Implement Route Planner (A* Algorithm)](./Implement_Route_Planner/home/project_notebook.ipynb)
+## [Project 3: Implement Route Planner (A* Algorithm)](./Implement_Route_Planner/home/project_notebook.ipynb)
 
 **In this project, you will build a route-planning algorithm like the one used in Google Maps to calculate the shortest path between two points on a map.**
 
