@@ -8,7 +8,7 @@
 
 ### These are my submission projects for the ISDC Nanodegree
 
-## [Project 0: Joy Ride](./Joy Ride/jupyterwork/Car.py) 
+## [Project 0: Joy Ride](./Joy_Ride/jupyterwork/Car.py) 
 
 **Jump​ ​into​ ​writing​ ​code​ ​that​ ​controls​ a ​simulated​ ​vehicle.​ ​Send​ ​ throttle​ ​ and​ ​steering​ ​commands​ ​to​ ​the car​ ​to​ try​ and​ ​get​ ​it​ ​to​ ​navigate​ around​ ​a ​test​ ​track.**
 
@@ -19,7 +19,7 @@
 
 ***
 
-## [Project 1: Implement​ ​a ​Matrix​ ​Class](./Implement a Matrix Class/home/kalman_filter_demo.ipynb)
+## [Project 1: Implement​ ​a ​Matrix​ ​Class](./Implement_a_Matrix_Class/home/kalman_filter_demo.ipynb)
 
 **In​ this​ ​project​ ​you’ll​ ​practice​ ​using​ ​your​ ​object​ ​oriented​ ​programming​ ​and​ ​matrix​ ​math​ ​skills​ ​by filling​ ​out the​ methods​ in​ ​a ​partially-completed​ ​`Matrix`​ class**
 
@@ -37,7 +37,7 @@
 
 *** 
 
-## [Project 2: Translate​ Python​ ​to​​ C++](./Translate Python to C++)
+## [Project 2: Translate​ Python​ ​to​​ C++](./Translate_Python_to_C++)
 
 **​The​ goal​ for​ this course​ ​is​ ​translation:​ given​ ​a ​program​ written​ ​in​ ​Python,​ ​you’ll​ ​apply​ ​your knowledge​ of​ ​C++​ ​syntax​ ​by​ ​translating​ ​the​ ​Histogram​ ​Filter​ ​code​ ​from the​ ​first​ ​course​ ​into​ ​C++.**
 
@@ -56,7 +56,7 @@
 
 ***
 
-##[Project 3: Implement Route Planner (A* Algorithm)](./Implement Route Planner/home/project_notebook.ipynb)
+##[Project 3: Implement Route Planner (A* Algorithm)](./Implement_Route_Planner/home/project_notebook.ipynb)
 
 **In this project, you will build a route-planning algorithm like the one used in Google Maps to calculate the shortest path between two points on a map.**
 
@@ -77,7 +77,7 @@
 
 ***  
 
-## [Project 4: Traffic Light Classifier](./Traffic Light Classifier/home/Traffic_Light_Classifier.ipynb)
+## [Project 4: Traffic Light Classifier](./Traffic_Light_Classifier/home/Traffic_Light_Classifier.ipynb)
 
 **In this project, you’ll use your knowledge of computer vision techniques to build a classifier for images of traffic lights! You'll be given a dataset of traffic light images , pre-process these images, extract features and use those features to classify the traffic light images into three categories: red, yellow, or green.**
 
